@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sign_up_button_text">Sign Up</string>
+    <string name="sign_in_button_text">Sign In</string>
+    <string name="registration_button_text">Registration</string>
+    <string name="authorization_button_text">Authorization</string>
+</resources>

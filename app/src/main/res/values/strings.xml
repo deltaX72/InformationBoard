@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">InformationBoard</string>
+
+    <string name="create_news_title">Create news</string>
+    <string name="log_out_title">Log out</string>
+
+    <string name="username_text">Username:</string>
+    <string name="password_text">Password:</string>
+    <string name="date_created_text">Date created:</string>
+    <string name="log_in_text">Log in</string>
+    <string name="dont_have_account_question_text">Don\'t have an account?</string>
+
+    <string name="menu_item_profile_title">Profile</string>
+    <string name="menu_item_news_title">News</string>
+    <string name="menu_item_friends_title">Friends</string>
+
+    <string name="login_username_hint">username</string>
+    <string name="login_password_hint">password</string>
+    <string name="registration_username_hint">username</string>
+    <string name="registration_password_hint">password</string>
+    <string name="username_textview">Username:</string>
+    <string name="password_textview">Password:</string>
+    <string name="write_your_username_textview">Write your username</string>
+    <string name="write_topic_textview">Write topic</string>
+    <string name="topic_hint">topic</string>
+    <string name="write_your_message_textview">Write your message</string>
+    <string name="message_hint">message</string>
+    <string name="create_news_button">Create</string>
+    <string name="edit_profile_button_text">Edit profile</string>
+    <string name="first_name_textview">First name:</string>
+    <string name="last_name_textview">Last name:</string>
+    <string name="first_name_hint">first name</string>
+    <string name="save_button">Save</string>
+    <string name="last_name_hint">last name</string>
+
+</resources>

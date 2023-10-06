@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pattern_fragment_news_username">username</string>
+    <string name="pattern_fragment_news_topic">topic</string>
+    <string name="pattern_fragment_news_message">Some msg</string>
+</resources>
